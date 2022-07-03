@@ -1,0 +1,17 @@
+#image {
+  height: 150px;
+  object-fit: cover;
+}
+#hazhar2 {
+  margin: 30px;
+  box-shadow: 2px 2px 10px rgb(163, 245, 163);
+  text-decoration:none;
+  background-color: rgb(255, 255, 255);
+}
+
+
+#hazhar2:hover{
+    transition: all 0.1s linear;
+    color: rgb(20, 128, 6);
+    box-shadow: 2px 5px 20px rgb(117, 243, 101);
+}

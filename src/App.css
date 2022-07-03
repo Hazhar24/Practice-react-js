@@ -1,0 +1,10 @@
+#hazhar1{
+    display: flex;
+    flex-wrap: wrap;
+    margin:auto;
+    justify-content: center;
+}
+
+#samtrast1{
+    max-width: 100%;
+}

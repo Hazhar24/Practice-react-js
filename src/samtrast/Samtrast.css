@@ -1,0 +1,22 @@
+#kkk{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+#kkkk{
+    width: 500px;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p:hover{
+    transition: all 1s linear;
+    background-color: antiquewhite;
+    color: rgb(3, 3, 95);
+}
+
