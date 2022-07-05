@@ -24,7 +24,7 @@ export default function Samtrast() {
                     </p>
                 </Col>
                 <Col>
-                    <Image src='./111.jpg' id='kkkk' fluid roundedCircle></Image>
+                    <Image src='./222.jpg' id='kkkk' fluid roundedCircle></Image>
                 </Col>
             </Row>
         </Container>

@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from 'react'
 import Hazhar from './nav/Navbar'
 import Samtrast from './samtrast/Samtrast'
